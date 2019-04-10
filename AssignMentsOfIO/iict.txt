@@ -1,0 +1,1011 @@
+﻿Overview
+The first institute of Shahjalal University of Science and Technology was established in 2007. The aim and objective of the institute is to promote and provide facilities for post graduate study in ICT for graduates from various disciplines and to actively pursue research in ICT in order to develop knowledge based products and services. The institute will also develop ICT facilities in order to create an on-campus environment conductive to enthusiasm, innovation, and enterprise and to nurture innovative ideas and incubate promising initiatives. In the same time institute will try to produce manpower and expertise in ICT by carrying out training in diverse areas for those interested in taking ICT as a profession as well as those already engaged in the profession. The institute will also provide consulting and advisory services to public and private organizations.
+The first institute of Shahjalal University of Science and Technology was established in 2007. The aim and objective of the institute is to promote and provide facilities for post graduate study in ICT for graduates from various disciplines and to actively pursue research in ICT in order to develop knowledge based products and services The institute will also develop ICT facilities in order to create an on-campus environment conductive to enthusiasm, innovation, and enterprise and to nurture innovative ideas and incubate promising initiatives. In the same time institute will try to produce manpower and expertise in ICT by carrying out training in diverse areas for those interested in taking ICT as a profession as well as those already engaged in the profession.The institute will also provide consulting and advisory services to public and private organizations.
+
+
+
+Curriculum
+Masters in Information Technology (MIT)
+ 
+
+Total Credit : 36
+
+Course Length : 1.5 Years
+
+Total Semesters : 3
+
+ 
+
+Course Details :
+ 
+
+First Year : Semester 1
+Semester 01
+
+Course Code
+
+Course Name
+
+Course credit
+
+MIT 521
+
+Computer Programming and Algorithm
+
+3
+
+MIT 523
+
+Advanced Web Technologies
+
+3
+
+MIT 525
+
+Database Architecture and Administration
+
+3
+
+MIT 527
+
+E-Governance
+
+3
+
+Sub Total
+
+                                 
+
+12
+
+ 
+
+Semester 02
+
+Course Code
+
+Course Name
+
+Course credit
+
+MIT 531
+
+Machine Learning
+
+3
+
+MIT 533
+
+Computer Network and Internetworking
+
+3
+
+MIT 5**
+
+Option 01
+
+3
+
+MIT 560
+
+Project
+
+3
+
+Sub Total
+
+                                 
+
+12
+
+ 
+
+Semester 03
+
+Course Code
+
+Course Name
+
+Course credit
+
+MIT 621
+
+Information and Cyber security
+
+3
+
+MIT 623
+
+Software Engineering and Management
+
+3
+
+MIT 6**
+
+Option 02
+
+3
+
+MIT 660
+
+Project
+
+3
+
+Sub Total
+
+                                 
+
+12
+
+ 
+ 
+B.Sc. In Software Engineering
+ 
+
+Total Credit : 160
+
+Course Length : 4 Years
+
+Total Semesters : 8
+
+ 
+
+Course Details :
+ 
+
+First Year : Semester 1
+Course Code
+
+Course Title
+
+Credit
+
+SWE 121
+
+Structured Programming Language
+
+3.0
+
+SWE 122
+
+Structured Programming Language Lab
+
+1.5
+
+SWE 123
+
+Discrete Mathematics
+
+3.0
+
+EEE 101
+
+Basic Electrical and Electronic Circuits
+
+3.0
+
+EEE 102
+
+Basic Electrical and Electronic Circuits Lab
+
+1.5
+
+MAT 105W
+
+Coordinate Geometry and Calculus
+
+3.0
+
+PHY 103W
+
+Mechanics, Wave, Heat & Thermodynamics
+
+3.0
+
+BNG 105W
+
+Bangla Language
+
+3.0
+
+ 
+First Year : Semester 2
+Course Code
+
+Course Title
+
+Credit
+
+SWE 150
+
+Project Work-I
+
+2.0
+
+SWE 127
+
+Data Structure
+
+3.0
+
+SWE 128
+
+Data Structure Lab
+
+2.0
+
+SWE 125
+
+Introduction to Software Engineering
+
+3.0
+
+PHY 102W
+
+Basic Physics Lab
+
+1.5
+
+MAT 107W
+
+Linear and Abstract Algebra
+
+3.0
+
+STA 101W
+
+Basic Statistics and Probability
+
+3.0
+
+ENG 101W
+
+Effective Communication in English
+
+2.0
+
+ENG 102W
+
+English Language Lab 1
+
+1.0
+
+ 
+
+Second Year : Semester 1
+Course Code
+
+Course Title
+
+Credit
+
+SWE 222
+
+Introduction to Competitive Programming
+
+2.0
+
+SWE 223
+
+Object Oriented Programming
+
+3.0
+
+SWE 224
+
+Object Oriented Programming Language Lab
+
+2.0
+
+SWE 225
+
+Software Requirement Engineering
+
+2.0
+
+SWE 226
+
+Software Requirement Engineering Lab
+
+1.5
+
+CSE 319
+
+Computer Architecture
+
+3.0
+
+SOC 203W
+
+Sociology for Engineers
+
+3.0
+
+BUS 201W
+
+Cost and Management Accounting
+
+3.0
+
+ 
+
+Second Year : Semester 2
+Course Code
+
+Course Title
+
+Credit
+
+SWE 227
+
+Theory of Computation
+
+2.0
+
+SWE 250
+
+Project Work -II
+
+2.0
+
+SWE 229
+
+Algorithm Design & Analysis
+
+3.0
+
+SWE 230
+
+Algorithm Design & Analysis Lab
+
+1.5
+
+SWE 231
+
+Numerical Analysis
+
+2.0
+
+SWE 232
+
+Numerical Analysis Lab
+
+1.5
+
+SWE 233
+
+Operating Systems and System Programming
+
+3.0
+
+SWE 234
+
+Operating Systems and System Programming lab
+
+1.5
+
+SWE 235
+
+Ethics and Cyber Law
+
+2.0
+
+ECO 205W
+
+Principles of Economics
+
+3.0
+
+ 
+
+Third Year : Semester 1
+Course Code
+
+Course Title
+
+Credit
+
+SWE 321
+
+Software Architecture and Design Patterns
+
+3.0
+
+SWE 322
+
+Software Architecture and Design Patterns Lab
+
+1.5
+
+SWE 323
+
+Computer Networking
+
+3.0
+
+SWE 324
+
+Computer Networking Lab
+
+1.5
+
+SWE 325
+
+Distributed System
+
+2.0
+
+SWE 326
+
+Distributed System Lab
+
+1.5
+
+SWE 327
+
+Database Management System
+
+3.0
+
+SWE 328
+
+Database Management System Lab
+
+2.0
+
+SWE 329
+
+Management Information System
+
+2.0
+
+ 
+
+Third Year : Semester 2
+Course Code
+
+Course Title
+
+Credit
+
+SWE 331
+
+Software Usability and Metrics
+
+2.0
+
+SWE 333
+
+Software Verification and Validation
+
+2.0
+
+SWE 334
+
+Software Verification and Validation Lab
+
+1.5
+
+SWE 335
+
+Introduction to Data Science
+
+2.0
+
+SWE 336
+
+Introduction to Data Science Lab
+
+1.5
+
+SWE 337
+
+Computer, Data and Network Security
+
+2.0
+
+SWE 338
+
+Computer, Data and Network Security Lab
+
+1.5
+
+SWE 340
+
+Web Technologies
+
+2.0
+
+SWE 342
+
+Technical Writing And Presentation
+
+2.0
+
+BUS 301W
+
+Entrepreneurship Development
+
+2.0
+
+SWE 350
+
+Project Work-III
+
+2.0
+
+ 
+
+Fourth Year : Semester 1
+Course Code
+
+Course Title
+
+Credit
+
+SWE 420
+
+Internship
+
+18
+
+ 
+
+Fourth Year : Semester 2
+Course Code
+
+Course Title
+
+Credit
+
+SWE 421
+
+Artificial Intelligence
+
+3.0
+
+SWE 422
+
+Artificial Intelligence Lab
+
+1.5
+
+SWE 423
+
+Computer Graphics and Image Processing
+
+3.0
+
+SWE 424
+
+Computer Graphics and Image Processing Lab
+
+1.5
+
+SWE 425
+
+Software Project Management
+
+2.0
+
+SWE 4**
+
+Option
+
+3.0
+
+SWE 4**
+
+Option Lab
+
+1.5
+
+SWE 450
+
+Thesis/Project
+
+4.0
+
+ 
+
+Optional Courses
+Course Code
+
+Course Title
+
+Credit
+
+SWE 427
+
+Machine Learning
+
+3.0
+
+SWE 428
+
+Machine Learning Lab
+
+1.5
+
+SWE 429
+
+Human Computer Interaction
+
+3.0
+
+SWE 430
+
+Human Computer Interaction Lab
+
+1.5
+
+SWE 431
+
+Advanced Data Structure and Algorithm
+
+3.0
+
+SWE 432
+
+Advanced Data Structure and Algorithm Lab
+
+1.5
+
+SWE 433
+
+Neural Network and Deep Learning
+
+3.0
+
+SWE 434
+
+Neural Network and Deep Learning Lab
+
+1.5
+
+SWE 435
+
+Advanced Database System
+
+3.0
+
+SWE 436
+
+Advanced Database System Lab
+
+1.5
+
+SWE 437
+
+Bio-informatics
+
+3.0
+
+SWE 438
+
+Bio-informatics Lab
+
+1.5
+
+SWE 439
+
+Natural Language Processing
+
+3.0
+
+SWE 440
+
+Natural Language Processing Lab
+
+1.5
+
+SWE 441
+
+Cloud Computing
+
+3.0
+
+SWE 442
+
+Cloud Computing Lab
+
+1.5
+
+SWE 443
+
+Advanced Database System
+
+3.0
+
+SWE 444
+
+Advanced Database System Lab
+
+1.5
+
+SWE 451
+
+Introduction to Cryptography
+
+3.0
+
+SWE 452
+
+Introduction to Cryptography Lab
+
+1.5
+
+SWE 453
+
+Contemporary Course on Software Engineering
+
+3.0
+
+SWE 454
+
+Contemporary Course on Software Engineering Lab
+
+1.5
+
+ 
+
+ 
+
+Post Graduate Diploma in Information Technology
+ 
+
+Total Credit : 36
+Course Length : 18 Months
+Total Terms : 3
+ 
+
+Examination System:
+       A student will be evaluated continuously throughout the whole term. For theoretical courses s/he will be assessed by class participation, assignments, quizzes and final examinations. A two-hour (50 marks) final examination will be conducted for every theory course. For laboratory course s/he will be assessed by observation at work, viva-voce during laboratory works, from his/her written reports and lab final examination. A course result will be produced by combining theory and lab part according to the respective theory and lab credit.
+
+ 
+
+Grading System:
+       Letter Grade and corresponding Grade-Point for a course will be awarded from the roundup marks of individual courses as follows:
+
+Numerical Grade
+
+Letter Grade
+
+Grade Point
+
+80% and above                   
+
+A+
+
+4.00
+
+75% to less than 80%                     
+
+A
+
+3.75
+
+70% to less than 75%                     
+
+A-
+
+3.50
+
+65% to less than 70%                    
+
+B+
+
+3.25
+
+60% to less than 65%                    
+
+B
+
+3.00
+
+55% to less than 60%                    
+
+B-
+
+2.75
+
+50% to less than 55%                     
+
+C+
+
+2.50
+
+45% to less than 50%                     
+
+C
+
+2.25
+
+40% to less than 45%                     
+
+C-
+
+2.00
+
+Less than 40%                                
+
+F
+
+0.00
+
+ 
+
+Calculation of Grades:
+       GPA:  Grade Point Average (GPA) is the weighted average of the grade points obtained in all the courses completed by a student in a term.
+
+          CGPA:  Cumulative Grade Point Average (CGPA) will be calculated by the weighted average of every courses of previous term along with the present term.
+
+          F Grades:  A student is given an ‘F’ grade if he fails or is absent in the final examination of a course. If a student obtains an ‘F’ grade his grade will not be counted for GPA and s/he has to repeat the course.
+
+ 
+
+Course Details:
+ 
+
+Term 1
+
+Course Code
+
+Course Title
+
+Credit
+
+PGD 111
+
+Computer Fundamentals
+
+3.0
+
+PGD 113
+
+Structured Programming
+
+4.0
+
+PGD 115
+
+Computer Networking
+
+3.0
+
+PGD 117
+
+Web Engineering
+
+2.0
+
+ 
+
+Term 2
+
+Course Code
+
+Course Title
+
+Credit
+
+PGD211
+
+DBMS & Database Programming
+
+4.0
+
+PGD213
+
+Data Structure
+
+3.0
+
+PGD215
+
+Object Oriented  Programming
+
+4.0
+
+PGD217
+
+Management Information Systems (MIS)
+
+2.0
+
+ 
+
+Term 3
+
+Course Code
+
+Course Title
+
+Credit
+
+PGD311
+
+Software Engineering
+
+3.0
+
+PGD313
+
+Mobile Apps Development
+
+2.0
+
+PGD315
+
+Algorithm
+
+3.0
+
+PGD300
+
+Project
+
+3.0
+
+ 
+
+ 
+
+Certificate Course: Web Development
+ 
+
+Course Length : 120 Hours
+
+ 
+
+Course Details:
+ 
+
+Introduction to Web Development
+Introduction to HTML
+Introduction to CSS
+Introduction to JavaScript
+Chrome Developer Tools, Sublime & Other Tools
+Intermediate HTML (Formatting & Forms)
+Intermediate CSS (Twitter Bootstrap & Others)
+Intermediate JavaScript (JQuery and Others)
+Concept on UX & UI (Wire-Framing and Prototyping)
+Introduction to PHP
+Intermediate PHP
+Database Basic
+What is CMS and Introduction to WordPress (WP)
+WordPress Admin Panel & Using Themes and Pluggins
+Introduction to WP Theme Development
+Introduction to WP Pluggin Development
+Concept about Servers, cPanel and Others, Using Git
+ 
+
+Certificate Course: Basic IT Skill
+ 
+
+Course Details:
+ 
+
+Introduction to Computer,
+Generation and Classification
+Number System
+Computer Organization and Architecture
+Introduction to Operating System
+Introduction to System Software and Application Software
+Peripheral & Storage Devices
+Introduction to Programming Languages and Programming
+Fundamentals of Computer Hardware
+Word Processing using MS Word
+Spreadsheet Analysis using MS Excel
+Database Management System using MS Access
+Presentation Software Usage using MS Power Point
+Internet Use
+package AssignMents;
+import java.io.BufferedReader;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
+import java.util.ArrayList;
+
+
